@@ -1,11 +1,13 @@
+### ![Profile Views](https://komarev.com/ghpvc/?username=22BCS16773&label=Profile%20views&color=0e75b6&style=flat)
+
 ### Hi there 👋, I'm Deepanshu Negi
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2F84EF&width=435&lines=3rd+Year+Computer+Science+Student;NCC+Cadet+%F0%9F%8F%86;Passionate+Coder+%F0%9F%92%BB;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;Tech+Explorer+%F0%9F%94%8E)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2F84EF&width=435&lines=3rd+Year+Computer+Science+Student;NCC+Cadet+%F0%9F%8F%86+%7C+Disciplined+%26+Dedicated;Passionate+Coder+%F0%9F%92%BB;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;Tech+Explorer+%F0%9F%94%8E)
 
 ---
 
 ### 👨‍💻 About Me
-I’m a 3rd-year Computer Science Engineering student at Chandigarh University with a strong interest in **Cloud Computing**, **Web & App Development**, and **DSA**. As an **NCC Cadet**, I value discipline and teamwork. Skilled in **C++, Java, Python, and C**, I’ve developed multiple real-world projects including:
+I’m a 3rd-year Computer Science Engineering student at Chandigarh University with a strong interest in **Cloud Computing**, **Web & App Development**, and **DSA**. As an **NCC Cadet**, I value discipline, resilience, and leadership. Skilled in **C++, Java, Python, and C**, I’ve developed multiple real-world projects including:
 
 - 🌦️ Weather Forecast App
 - 💉 Blood Bank Management System
@@ -31,6 +33,9 @@ I’m a 3rd-year Computer Science Engineering student at Chandigarh University w
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -44,6 +49,11 @@ I’m a 3rd-year Computer Science Engineering student at Chandigarh University w
 ### 🚀 Currently Working On:
 - 🔍 Wikipedia Fetcher API
 - 🛒 E-commerce Web Application
+
+---
+
+### 🫡 NCC Cadet Spirit
+![NCC Badge](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ED1C24&center=true&width=500&lines=NCC+Cadet+%F0%9F%87%AE%F0%9F%87%B3+|+Unity+%7C+Discipline+%7C+Service)
 
 ---
 
