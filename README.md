@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-I’m a 3rd-year Computer Science Engineering student at Chandigarh University with a strong interest in **Cloud Computing**, **Web & App Development**, and **DSA**. As an **NCC Cadet**, I value discipline, resilience, and leadership. Skilled in **C++, Java, Python, and C**, I’ve developed multiple real-world projects including:
+I’m a final year Computer Science Engineering student at Chandigarh University with a strong interest in **Cloud Computing**, **Web & App Development**, and **DSA**. As an **NCC Cadet**, I value discipline, resilience, and leadership. Skilled in **C++, Java, Python, and C**, I’ve developed multiple real-world projects including:
 
 - 🌦️ Weather Forecast App
 - 💉 Blood Bank Management System
