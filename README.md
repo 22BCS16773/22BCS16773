@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Deepanshu Negi
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2F84EF&width=435&lines=3rd+Year+Computer+Science+Student;NCC+Cadet+%F0%9F%8F%86+%7C+Disciplined+%26+Dedicated;Passionate+Coder+%F0%9F%92%BB;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;Tech+Explorer+%F0%9F%94%8E)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2F84EF&width=435&lines=Final+Year+Computer+Science+Student;NCC+Cadet+%F0%9F%8F%86+%7C+Disciplined+%26+Dedicated;Passionate+Coder+%F0%9F%92%BB;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;Tech+Explorer+%F0%9F%94%8E)
 
 ---
 
